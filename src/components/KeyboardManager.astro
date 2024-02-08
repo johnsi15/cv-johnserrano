@@ -83,6 +83,15 @@ const profilesInfo = profiles.map(({ network, url }) => {
 <script>
   import 'ninja-keys'
 
+  interface Info {
+    id: string
+    section: string
+    title: string
+    url: string
+    icon: string
+    hotkey: string
+  }
+
   const ninja = document.querySelector('ninja-keys')
   const footerButton = document.getElementById('footer-button')
 
@@ -105,7 +114,7 @@ const profilesInfo = profiles.map(({ network, url }) => {
     const info = ninja.getAttribute('data-info') ?? '[]'
     const parsedInfo = JSON.parse(info)
 
-    const data = parsedInfo.map(({ url, hotkey, icon, id, section, title }) => {
+    const data = parsedInfo.map(({ url, hotkey, icon, id, section, title }: Info) => {
       return {
         id,
         title,
