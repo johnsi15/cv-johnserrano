@@ -1,0 +1,231 @@
+{
+  "basics": {
+    "name": "John Andrey Serrano",
+    "label": "Ingeniero de software con +7 años de experiencia, especializado en la creación de experiencias digitales de alto impacto.",
+    "image": "/me.webp",
+    "email": "me@johnserrano.co",
+    "phone": "",
+    "url": "https://johnserrano.co",
+    "summary": "¡Hola! Soy John Serrano. Comencé mi viaje en el desarrollo web en 2011 y obtuve una titulación como Tecnólogo en Análisis y Desarrollo de Sistemas. A partir del 2014 y por 2 años tuve que hacer una pausa en mi carrera por razones personales, pero eso no me detuvo en mi búsqueda de conocimiento. Desde el año 2016, he estado trabajando incansablemente y ampliando mis habilidades.",
+    "location": {
+      "address": "",
+      "postalCode": "54006",
+      "city": "Cúcuta",
+      "countryCode": "CO",
+      "region": "Colombia"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "jandreys15",
+        "url": "https://www.linkedin.com/in/jandreys15"
+      },
+      {
+        "network": "X",
+        "username": "Jandrey15",
+        "url": "https://twitter.com/Jandrey15"
+      },
+      {
+        "network": "GitHub",
+        "username": "johnsi15",
+        "url": "https://github.com/johnsi15"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "La Opinión de Cúcuta",
+      "position": "Software Engineer",
+      "url": "https://www.laopinion.com.co/",
+      "startDate": "2016-04-04",
+      "endDate": null,
+      "summary": "Desarrolle un sistema para guardar las transacciones de PAYU y dependiendo del estado de la transacción activar una suscripción digital, se desarrollo con Node.js, Express, MongoDB, NodeMailer. Desarrolle el sitio web chicaqhubo Cúcuta con Next.js, React, MongoDB. Realice la integración de Google ShowCase con el sistema de paywall dando contenido extendido en el sitio web de La Opinión.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "Plasticos formosa",
+      "position": "Desarrollador de Software",
+      "url": "",
+      "startDate": "2012-07-01",
+      "endDate": "2013-01-31",
+      "summary": "Entregue aplicaciones en Java y PHP, Implemente un sistema de votos interno con PHP",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universidad Santo Tomás Colombia",
+      "url": "https://www.linkedin.com/company/10426321/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBzK17uU%2FREWe73Mk%2F7REiQ%3D%3D",
+      "area": "Ingeniería Informática",
+      "studyType": "Profesional",
+      "startDate": "2014-02-01",
+      "endDate": "2019-11-05",
+      "score": "4.2",
+      "courses": [""]
+    },
+    {
+      "institution": "SENA",
+      "url": "https://www.linkedin.com/company/15100769/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BBzK17uU%2FREWe73Mk%2F7REiQ%3D%3D",
+      "area": "Tecnología de la información",
+      "studyType": "Tecnología",
+      "startDate": "2011-02-01",
+      "endDate": "2012-02-01",
+      "score": "4.5",
+      "courses": [""]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": ["Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Resultados Elecciones Regionales Colombia 2023",
+      "isActive": false,
+      "description": "El proyecto consiste en un módulo web que muestra los resultados de las elecciones regionales en Norte de Santander, Colombia. El módulo cuenta con cinco pestañas, cada una de las cuales muestra los resultados de una corporación de cargos públicos.",
+      "highlights": ["NodeJS", "Express", "JavaScript"],
+      "url": "https://laopinion.github.io/elecciones-resultados"
+    },
+    {
+      "name": "Geeparts Ecommerce",
+      "isActive": true,
+      "description": "He tenido el privilegio de crear y configurar 'Geeparts', una tienda en línea que satisface las necesidades de entusiastas de las dos ruedas. Esta plataforma, construida con la versátil solución de Tienda Nube y respaldada por la seguridad de Open Pay como pasarela de pagos en línea, ofrece una experiencia de compra sin igual.",
+      "highlights": ["JavaScript", "Tienda Nube", "Ecommerce"],
+      "url": "https://geeparts.co"
+    },
+    {
+      "name": "Chica Q'hubo Cúcuta",
+      "isActive": false,
+      "description": "Como desarrollador web, he tenido el honor de contribuir a un proyecto muy especial: 'Chica Q´Hubo'. Esta sección del periódico Q'Hubo ofrece a las mujeres de la región una plataforma para destacar su belleza y compartir su historia de vida con miles de lectores diarios.",
+      "highlights": ["NextJS", "JavaScript", "MongoDB"],
+      "url": "https://main--clinquant-belekoy-d41c33.netlify.app/chicaqhubo"
+    },
+    {
+      "name": "API de Películas (REST)",
+      "isActive": true,
+      "description": "Desarrolle una API REST de películas, diseñada para ofrecer una amplia gama de funcionalidades relacionadas con la gestión de películas. Desde la obtención de información sobre películas hasta la creación y actualización de registros.",
+      "highlights": ["TypeScript", "NodeJS", "MongoDB"],
+      "url": "https://movies-john-serrano.koyeb.app/api/movies/public",
+      "github": "https://github.com/johnsi15/apiMoviesTypeScript"
+    },
+    {
+      "name": "Portafolio para Clientes",
+      "isActive": true,
+      "description": "Este módulo fue desarrollado con ReactJS, ofrece a nuestros clientes una buena experiencia para elegir la estrategia publicitaria que mejor se adapte a los objetivos de los usuarios. El módulo se destaca por su atractivo diseño y la facilidad de navegación.",
+      "highlights": ["ReactJS", "Vte", "Sass"],
+      "url": "https://portafolio-para-clientes.netlify.app/",
+      "github": "https://github.com/laopinion/module-portafolio-clientes"
+    }
+  ]
+}
